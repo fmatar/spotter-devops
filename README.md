@@ -1,33 +1,6 @@
-# BeatSheet Exercise Starter
-Following the suggestion from our interview, I focused on doing one part of the assignment in a novel way. I created a click-and-drag interface for specifying the time range of a beat in an act. Hover over the timeline bar to select a start position, and click and drag to add a beat with that time range. I don't think this interaction makes sense for content creators, as beats probably should not be able to overlap, but my goal was to create an interface that wasn't all boxes, and this ui accomplished that. I had to time-box this as I could keep refining it forever, and I want to keep this process moving. A lot more could be done to improve this app in terms of style and experience. I've included a non-exhaustive to-do list below.
-
-## Todos: 
- - Style for mobile
- - handle creating and deleting acts
- - handle updating beats
- - add the time range on to the drag button as it updates
- - handle dragging the button behind the starting click location
- - handle extending the time range of an act
- - fix bug that prevents sliding to the exact end time of an act
- - smooth out toggling between beats that overlap densly, it can flicker back and forth in frustrating way
- - improve styling of the popup window for adding beat details
-
- ## Running the app
- 1. Make sure the backend is running, this can be done by following the instructions below.
- 2. in your terminal make sure you are in the `./beetsheet-ui` directory.
- 3. install the dependencies using `npm i`
- 4. run the development server using `npm run dev`
- 5. navigate to `http://localhost:3000`
-
-## Area of focus
-The main interaction I focused on for this is illustrated in this [video
-](https://www.loom.com/share/108d04cf05d84fe0a100ddef6a5ee7ce?sid=d3ce0da1-e823-4157-98c3-03ef948f574b)
-
-
-
 ## DOCKER INSTRUCTIONS
 
-This guide provides instructions on how to run the beetsheet backend in a docker container.
+This guide provides instructions on how to run the beetsheet backend and frontend in a docker environment.
 
 ## Requirements
 
