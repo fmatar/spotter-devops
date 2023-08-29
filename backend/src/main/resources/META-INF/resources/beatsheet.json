@@ -1,0 +1,217 @@
+{
+  "acts": [
+    {
+      "name": "Introduction",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "0:00-0:30",
+          "content": "We meet our hero, a bright and imaginative 8-year-old named Alex who is fascinated by everything about space.",
+          "cameraAngle": "Medium shot",
+          "notes": "Establish Alex's passion for space"
+        },
+        {
+          "name": "Beat 2",
+          "time": "0:30-1:00",
+          "content": "Alex at school, getting reprimanded for daydreaming about space during class.",
+          "cameraAngle": "Wide shot",
+          "notes": "Show contrast between Alex's imagination and the drab classroom"
+        },
+        {
+          "name": "Beat 3",
+          "time": "1:00-2:00",
+          "content": "At home, Alex constructs a makeshift rocket ship from cardboard boxes. His mother gives him a piece of candy as a snack.",
+          "cameraAngle": "Low angle shot",
+          "notes": "Emphasize the scale of Alex's imagination, introduce the candy element"
+        }
+      ]
+    },
+    {
+      "name": "The Dream",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "2:00-2:30",
+          "content": "That night, Alex dreams of soaring through space in his cardboard rocket ship.",
+          "cameraAngle": "Point of view shot",
+          "notes": "Capture the magic of Alex's dream"
+        },
+        {
+          "name": "Beat 2",
+          "time": "2:30-3:00",
+          "content": "In the dream, Alex marvels at the sight of distant stars and galaxies.",
+          "cameraAngle": "Wide shot",
+          "notes": "Show the beauty of space"
+        },
+        {
+          "name": "Beat 3",
+          "time": "3:00-3:30",
+          "content": "Alex spots a planet made entirely of candy and decides to land.",
+          "cameraAngle": "Medium shot",
+          "notes": "Introduce the candy planet"
+        }
+      ]
+    },
+    {
+      "name": "The Preparation",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "3:30-4:00",
+          "content": "Alex wakes up excited and starts preparing for his space adventure.",
+          "cameraAngle": "Close up shot",
+          "notes": "Show Alex's determination"
+        },
+        {
+          "name": "Beat 2",
+          "time": "4:00-4:30",
+          "content": "He collects candy and stores it in his rocket ship for his journey.",
+          "cameraAngle": "Wide shot",
+          "notes": "Emphasize the preparation for the journey"
+        },
+        {
+          "name": "Beat 3",
+          "time": "4:30-5:00",
+          "content": "Alex says goodnight to his parents, ready for his space adventure.",
+          "cameraAngle": "Medium shot",
+          "notes": "Show Alex's eagerness for the journey"
+        }
+      ]
+    },
+    {
+      "name": "The Launch",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "5:00-5:30",
+          "content": "Alex goes to bed and starts dreaming. His cardboard rocket ship takes off from his bedroom.",
+          "cameraAngle": "Low angle shot",
+          "notes": "Capture the moment of launch"
+        },
+        {
+          "name": "Beat 2",
+          "time": "5:30-6:00",
+          "content": "The rocket navigates through clouds, stars, and the moon.",
+          "cameraAngle": "Point of view shot",
+          "notes": "Show the thrill of space travel"
+        },
+        {
+          "name": "Beat 3",
+          "time": "6:00-6:30",
+          "content": "Alex sets course to the candy planet he saw in his previous dream.",
+          "cameraAngle": "Medium shot",
+          "notes": "Create anticipation for the candy planet"
+        }
+      ]
+    },
+    {
+      "name": "The Adventure",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "6:30-7:00",
+          "content": "Alex lands on the candy planet and starts exploring.",
+          "cameraAngle": "Wide shot",
+          "notes": "Show the wonders of the candy planet"
+        },
+        {
+          "name": "Beat 2",
+          "time": "7:00-7:30",
+          "content": "He tastes different types of candy - from chocolate mountains to jellybean fields.",
+          "cameraAngle": "Close up shot",
+          "notes": "Showcase the variety of candy"
+        },
+        {
+          "name": "Beat 3",
+          "time": "7:30-8:00",
+          "content": "Alex spends the day exploring and enjoying his time.",
+          "cameraAngle": "Point of view shot",
+          "notes": "Capture Alex's joy and excitement"
+        }
+      ]
+    },
+    {
+      "name": "The Problem",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "8:00-8:30",
+          "content": "Suddenly, Alex's ship starts beeping - it's running out of fuel.",
+          "cameraAngle": "Medium shot",
+          "notes": "Introduce the problem"
+        },
+        {
+          "name": "Beat 2",
+          "time": "8:30-9:00",
+          "content": "He realizes he needs to find a fuel source to get back home.",
+          "cameraAngle": "Close up shot",
+          "notes": "Emphasize Alex's determination"
+        }
+      ]
+    },
+    {
+      "name": "The Solution",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "9:00-9:30",
+          "content": "Alex gets an idea and decides to use the sugar from the candy as fuel.",
+          "cameraAngle": "Medium shot",
+          "notes": "Show Alex's resourcefulness"
+        },
+        {
+          "name": "Beat 2",
+          "time": "9:30-10:00",
+          "content": "He works hard and manages to convert the candy into fuel for his ship.",
+          "cameraAngle": "Wide shot",
+          "notes": "Capture Alex's efforts and success"
+        }
+      ]
+    },
+    {
+      "name": "The Return",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "10:00-10:30",
+          "content": "With the fuel problem solved, Alex blasts off from the candy planet.",
+          "cameraAngle": "Low angle shot",
+          "notes": "Capture the moment of return"
+        },
+        {
+          "name": "Beat 2",
+          "time": "10:30-11:00",
+          "content": "He navigates his ship through space and heads back home.",
+          "cameraAngle": "Point of view shot",
+          "notes": "Show the journey back home"
+        }
+      ]
+    },
+    {
+      "name": "The Resolution",
+      "beats": [
+        {
+          "name": "Beat 1",
+          "time": "11:00-11:30",
+          "content": "Alex wakes up from his dream, inspired and full of joy.",
+          "cameraAngle": "Medium shot",
+          "notes": "Capture Alex's contentment"
+        },
+        {
+          "name": "Beat 2",
+          "time": "11:30-12:00",
+          "content": "He rushes to share his space adventure with his parents at the breakfast table.",
+          "cameraAngle": "Wide shot",
+          "notes": "Show Alex's enthusiasm and happiness"
+        },
+        {
+          "name": "Beat 3",
+          "time": "12:00-12:30",
+          "content": "Alex starts the new day, eager to continue exploring the world and space around him.",
+          "cameraAngle": "Medium shot",
+          "notes": "End on a positive and hopeful note"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+.list {
+  display: block;
+  position: relative;
+  flex-direction: row;
+  list-style: none;
+  width: calc(100vw - (var(--body-padding) * 2));
+  height: 250px;
+}
+
+.container {
+  scroll-snap-align: start;
+  position: relative;
+  margin-bottom: 42px;
+}
+
+.start {
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+}
+
+.end {
+  position: absolute;
+  bottom: -28px;
+  right: 0;
+}
+
+.title {
+  padding-top: 24px;
+}

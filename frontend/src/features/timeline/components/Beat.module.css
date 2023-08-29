@@ -1,0 +1,48 @@
+.line {
+  position: absolute;
+  height: 8px;
+  border-radius: 4px;
+  background-color: var(--orange);
+  width: 0%;
+  transition: width 300ms ease-in-out;
+  display: block;
+  cursor: pointer;
+}
+
+.content {
+  padding: 12px;
+  background-color: var(--orange);
+  color: black;
+  position: absolute;
+  left: 0;
+  border-radius: 4px;
+  height: 200px;
+  top: -225px;
+  overflow-x: hidden;
+  box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+}
+
+.header {
+  margin-bottom: 16px;
+}
+
+.paragraph {
+  margin-bottom: 8px;
+}
+
+.button {
+  width: 25px;
+  height: 25px;
+  font-size: 10px;
+  line-height: 25px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  border-radius: 50%;
+  background-color: white;
+  color: black;
+  position: absolute;
+  right: 12px;
+  top: 12px;
+}
